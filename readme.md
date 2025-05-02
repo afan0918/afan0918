@@ -20,4 +20,9 @@
 2023/02 AIS3 EOF 決賽全國第十一
 ```
 
+### 大四
+```
+2021/06 中央工學院程式設計競賽 全院第二
+```
+
 ![](https://github.com/afan0918/afan0918/blob/main/github-snake-dark.svg)
