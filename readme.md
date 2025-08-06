@@ -1,5 +1,4 @@
 NCCU CS
-GG
 
 ```
 2025/02 AIS3 EOF 銀質獎＋炸彈超人獎（malware及EDR第一）（2 / 70）
